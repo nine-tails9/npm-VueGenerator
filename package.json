@@ -1,0 +1,7 @@
+{
+    "name": "@nine_tails9/vuemodelgenerator",
+    "version": "1.0.1",
+    "main": "index.js",
+    "description": "Generate Vue Files With speicified model details from components"
+
+}
