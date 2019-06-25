@@ -1,6 +1,6 @@
 {
     "name": "@nine_tails9/vuemodelgenerator",
-    "version": "1.1.1",
+    "version": "1.1.3",
     "main": "index.js",
     "scripts": {
         "git-commit": "git add . && git commit -m",
@@ -9,6 +9,16 @@
     "bin": {
         "dg-vmg": "./bin/generate.js"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nine-tails9/npm-VueGenerator.git"
+    },
     "description": "Generate Vue Files With speicified model details from components",
-    "dependencies": {}
+    "dependencies": {},
+    "keywords": [
+        "Vue",
+        "Model",
+        "Basic Components"
+    ],
+    "license": "MIT"
 }
