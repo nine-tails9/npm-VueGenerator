@@ -31,7 +31,11 @@ This command will generate User.vue in root directory using model from file 'ff.
 directory.
 
 
-
+#### Screenshots
+##### Example Input File
+![ScreenShots](https://i.ibb.co/XjdR8Jw/Screenshot-12.png "Example Input File")
+##### Example Output File
+![ScreenShots](https://i.ibb.co/qyRrVbk/Screenshot-13.png "Example Ouput File")
 
 
 ## Contributing
